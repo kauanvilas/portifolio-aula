@@ -1,2 +1,3 @@
-# portifolio-aula
-portifolio criado com as aulas do curso HTML e CSS para páginas na Web - Alura.
+# Portifólio 1
+Portifólio criado com as aulas do curso HTML5 e CSS3 para projetos Web.
+Instituição de ensino Alura.
